@@ -1,0 +1,5 @@
+/* background will be FFF7F7, any mats FDD8D8, accents and borders in FDD8D8 or 04048A? */
+html {
+    background-color: #FFF7F7;
+    color: #04048A;
+}
