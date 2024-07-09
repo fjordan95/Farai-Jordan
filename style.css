@@ -1,5 +1,24 @@
 /* background will be FFF7F7, any mats FDD8D8, accents and borders in FDD8D8 or 04048A? */
 html {
     background-color: #FFF7F7;
-    color: #04048A;
+    color: #131368;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+    padding: 10px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}
+
+.socials {
+    width: 100px;
+    margin: 15px;
 }
