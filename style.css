@@ -1,7 +1,7 @@
-/* background will be FFF7F7, any mats FDD8D8, accents and borders in FDD8D8 or 04048A? */
+/* background will be #fae1df, any mats #515052 or #e63462, borders? #fe5f55 and accents#b9f18c? */
 html {
-    background-color: #FFF7F7;
-    color: #131368;
+    background-color: #fae1df;
+    color: #515052;
 }
 
 body {
