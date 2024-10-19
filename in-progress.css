@@ -1,0 +1,15 @@
+html {
+    background-color: #fae1df;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+    
+}
+
+img {
+    height: 700px;
+    justify-self: center;
+}
